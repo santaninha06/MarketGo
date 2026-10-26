@@ -73,7 +73,7 @@ EXPO_PUBLIC_SUPABASE_URL=https://SEU-PROJETO.supabase.co
 EXPO_PUBLIC_SUPABASE_KEY=SUA-CHAVE-PUBLICA
 ```
 
-Não compartilhe credenciais privadas nem envie o arquivo `.env` ao GitHub.
+
 
 ### 4. Configurar o banco de dados
 
